@@ -1,0 +1,26 @@
+*.py[co]
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+lib
+include
+bin
+var
+src
+sdist
+develop-eggs
+cover
+man
+
+# logs
+pip-log.txt
+*.log
+
+# Unit test / coverage reports
+.coverage
+.tox
